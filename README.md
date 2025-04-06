@@ -38,8 +38,6 @@ This codex was created by **BRU** as part of a full Python mastery curriculum fo
 
 ## 🧪 Project File Structure
 
-## 🧪 Project File Structure
-
 ```
 crystal_codex/
 ├── __init__.py              # Declares this folder as a Python package
