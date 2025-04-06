@@ -6,6 +6,7 @@
 This project was created during a full-stack journey through Python.
 
 Modules included:
+  
 ✅ Terminal-based input + journaling  
 ✅ Modular architecture with file separation  
 ✅ JSON-based codex storage  
