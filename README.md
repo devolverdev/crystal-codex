@@ -57,39 +57,7 @@ This codex was created by **BRU** as part of a full Python mastery curriculum fo
 ## 🧪 Project File Structure
 
 
-crystal_codex/
-├── __init__.py              # Declares this folder as a Python package
-├── run.py                   # Main app runner
-├── main.py                  # Alternate runner / test file
-├── gems.py                  # Logic to recommend a crystal
-├── rituals.py               # Ritual logging (journal entries)
-├── utils.py                 # Time and helper functions
-├── file_writer.py           # JSON file handling (save/load/update/delete)
-├── crystal_gui.py           # GUI app using Tkinter
-├── crystal_web.py           # Flask web app for mood-to-crystal
-├── templates/
-│   └── index.html           # HTML for Flask app
-├── codex.json               # Crystal data storage
-├── crystal_journal.txt      # Where user rituals are logged
-├── myrituals.txt            # Additional journaling file
-
-root/
-├── 01 Propositions.py       # Propositional logic
-├── 02 Variables.py          # Mood-based variable logic
-├── 03 Functions.py          # Reusable logic with parameters
-├── 04 InteractionFeedback.py# User input with feedback
-├── 05 Lists.py              # Lists and appending
-├── 06 DataMapping.py        # Dictionaries and .get()
-├── 07 NestedDictionaries... # Multilevel dictionaries
-├── 08 LoopsInDics.py        # Loops + nested structures
-├── 09 FileHandling.py       # JSON I/O tests
-├── append_ritual.py         # Writing new rituals
-├── gratitude_journal.txt    # Another journaling file
-├── FirstJup.ipynb           # Jupyter test notebook
-├── README.md                # This file ✨
-
-
-
+<pre> <code> ``` crystal_codex/ ├── __init__.py # Declares this folder as a Python package ├── run.py # Main app runner ├── main.py # Alternate runner / test file ├── gems.py # Logic to recommend a crystal ├── rituals.py # Ritual logging (journal entries) ├── utils.py # Time and helper functions ├── file_writer.py # JSON file handling (save/load/update/delete) ├── crystal_gui.py # GUI app using Tkinter ├── crystal_web.py # Flask web app for mood-to-crystal ├── templates/ │ └── index.html # HTML for Flask app ├── codex.json # Crystal data storage ├── crystal_journal.txt # Where user rituals are logged ├── myrituals.txt # Additional journaling file root/ ├── 01 Propositions.py # Propositional logic ├── 02 Variables.py # Mood-based variable logic ├── 03 Functions.py # Reusable logic with parameters ├── 04 InteractionFeedback.py# User input with feedback ├── 05 Lists.py # Lists and appending ├── 06 DataMapping.py # Dictionaries and .get() ├── 07 NestedDictionaries... # Multilevel dictionaries ├── 08 LoopsInDics.py # Loops + nested structures ├── 09 FileHandling.py # JSON I/O tests ├── append_ritual.py # Writing new rituals ├── gratitude_journal.txt # Another journaling file ├── FirstJup.ipynb # Jupyter test notebook ├── README.md # This file ✨ ``` </code> </pre>
 
 
 
