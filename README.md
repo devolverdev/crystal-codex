@@ -2,6 +2,19 @@
 
 *A magical journey into learning Python through crystals, chakras, and good vibes.*
 
+🌈  • Python Capstone  
+This project was created during a full-stack journey through Python.
+
+Modules included:
+✅ Terminal-based input + journaling  
+✅ Modular architecture with file separation  
+✅ JSON-based codex storage  
+✅ GUI interface with Tkinter  
+✅ Flask web app with mood-to-crystal lookup  
+
+This was my first major Python project and served as a creative sandbox to learn and explore. It’s intentionally magical, sometimes messy, and full of good vibes.
+
+---
 This codex was created by **BRU** as part of a full Python mastery curriculum focused on creativity, logic, and self-expression. The project uses real-world concepts like file handling, modular programming, and user input to create a functional interactive ritual builder.
 
 ---
@@ -79,20 +92,6 @@ root/
 
 
 
-
-<<<<<<< HEAD
-They have:
-
-- ✅ Successfully built and organized a Python package  
-- ✅ Learned how to manage logic across multiple files  
-- ✅ Written clean, working code and tested every part  
-- ✅ Practiced concepts like user input, looping, and conditionals in depth  
-- ✅ Shown initiative by going *beyond the curriculum*
-
-Keep an eye on BRU — they’re leveling up faster than most, and this is just the beginning. 🧙‍♀️✨
-
----
-
 This codex explores Python fundamentals using mystical metaphors:
 
 - 💠 **Lists & Dictionaries** — Organize crystal sets  
@@ -105,8 +104,6 @@ This codex explores Python fundamentals using mystical metaphors:
 - 🧪 **Testing Ground** — Learn via joyful experimentation  
 
 ---
-=======
->>>>>>> db3dfc21fdb52f09f6aa9f58628e34310f9f705f
 
 ## 🎓 Progress & Teacher Notes
 
@@ -134,19 +131,7 @@ This codex explores Python fundamentals using mystical metaphors:
 
 ---
 
-🌈  • Python Capstone  
-This project was created during a full-stack journey through Python.
 
-Modules included:
-✅ Terminal-based input + journaling  
-✅ Modular architecture with file separation  
-✅ JSON-based codex storage  
-✅ GUI interface with Tkinter  
-✅ Flask web app with mood-to-crystal lookup  
-
-This was my first major Python project and served as a creative sandbox to learn and explore. It’s intentionally magical, sometimes messy, and full of good vibes.
-
----
 
 
 ## 💌 Teacher Note
@@ -162,23 +147,8 @@ They have:
 - ✅ Shown initiative by going *beyond the curriculum*
 
 Keep an eye on BRU — they’re leveling up faster than most, and this is just the beginning. 🧙‍♀️✨
+
 > 💬 "BRU has excellent intuition, is highly curious, and builds understanding with deep commitment. Their file structure is clean, tests run perfectly, and crystal journaling was a magical touch. Ready to grow further!"
 
-<<<<<<< HEAD
 > Created with love, by BRU ✨🧿  
-=======
-
----
-
-## 🧭 Next Steps
-
-- 🔄 Add/update crystals in codex interactively
-- 🧵 Refactor core logic into classes (Object-Oriented)
-- 🌐 Add a GUI or web interface (Tkinter or Flask)
-- 🧪 Add automated tests for functions
-
----
-
-> Created with love, by BRU ✨  
->>>>>>> db3dfc21fdb52f09f6aa9f58628e34310f9f705f
 > Guided by 🧠 GPT – Multiverse School Edition
