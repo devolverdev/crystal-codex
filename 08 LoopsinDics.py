@@ -79,3 +79,6 @@ with open("codex.json", "w") as file:
     json.dump(crystal_codex, file, indent=4)
 
 print("✅ Codex saved to codex.json!")
+
+
+

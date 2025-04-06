@@ -1,0 +1,32 @@
+{
+    "rose quartz": {
+        "element": "water",
+        "chakra": "heart",
+        "color": "pink",
+        "healing": "promotes love and compassion"
+    },
+    "amethyst": {
+        "element": "air",
+        "chakra": "crown",
+        "color": "purple",
+        "healing": "aids clarity and spiritual calm"
+    },
+    "obsidian": {
+        "element": "earth",
+        "chakra": "root",
+        "color": "black",
+        "healing": "blocks negativity and grounds you"
+    },
+    "wowowow": {
+        "chakra": "ALIEN",
+        "color": "NUCLEAR",
+        "element": "ETER",
+        "healing": "FLY AWAY"
+    },
+    "new crys": {
+        "chakra": "all",
+        "color": "rainbow",
+        "element": "all",
+        "healing": "all"
+    }
+}

@@ -1,26 +1,8 @@
 {
-    "rose quartz": {
-        "element": "water",
-        "color": "pink",
-        "chakra": "heart",
-        "healing": "opens the heart, promotes love and compassion"
-    },
-    "obsidian": {
-        "element": "earth",
-        "color": "black",
-        "chakra": "root",
-        "healing": "protects and grounds, absorbs negativity"
-    },
-    "amethyst": {
+    "fluorite": {
+        "chakra": "third eye",
+        "color": "green",
         "element": "air",
-        "color": "purple",
-        "chakra": "crown",
-        "healing": "soothes the mind, aids spiritual awareness"
-    },
-    "citrine": {
-        "element": "fire",
-        "color": "gold",
-        "chakra": "solar plexus",
-        "healing": "boosts confidence, attracts prosperity"
+        "effect": "focus and clarity"
     }
 }
