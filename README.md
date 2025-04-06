@@ -77,12 +77,10 @@ root/
 
 
 
----
 
-## 💌 Teacher Note
 
-BRU has built every part of this project from scratch, using their curiosity, discipline, and creative flair to master not only Python syntax, but also **logical thinking** and **real-world coding practices**.
 
+<<<<<<< HEAD
 They have:
 
 - ✅ Successfully built and organized a Python package  
@@ -107,6 +105,8 @@ This codex explores Python fundamentals using mystical metaphors:
 - 🧪 **Testing Ground** — Learn via joyful experimentation  
 
 ---
+=======
+>>>>>>> db3dfc21fdb52f09f6aa9f58628e34310f9f705f
 
 ## 🎓 Progress & Teacher Notes
 
@@ -148,7 +148,37 @@ This was my first major Python project and served as a creative sandbox to learn
 
 ---
 
+
+## 💌 Teacher Note
+
+BRU has built every part of this project from scratch, using their curiosity, discipline, and creative flair to master not only Python syntax, but also **logical thinking** and **real-world coding practices**.
+
+They have:
+
+- ✅ Successfully built and organized a Python package
+- ✅ Learned how to manage logic across multiple files
+- ✅ Written clean, working code and tested every part
+- ✅ Practiced concepts like user input, looping, and conditionals in depth
+- ✅ Shown initiative by going *beyond the curriculum*
+
+Keep an eye on BRU — they’re leveling up faster than most, and this is just the beginning. 🧙‍♀️✨
 > 💬 "BRU has excellent intuition, is highly curious, and builds understanding with deep commitment. Their file structure is clean, tests run perfectly, and crystal journaling was a magical touch. Ready to grow further!"
 
+<<<<<<< HEAD
 > Created with love, by BRU ✨🧿  
+=======
+
+---
+
+## 🧭 Next Steps
+
+- 🔄 Add/update crystals in codex interactively
+- 🧵 Refactor core logic into classes (Object-Oriented)
+- 🌐 Add a GUI or web interface (Tkinter or Flask)
+- 🧪 Add automated tests for functions
+
+---
+
+> Created with love, by BRU ✨  
+>>>>>>> db3dfc21fdb52f09f6aa9f58628e34310f9f705f
 > Guided by 🧠 GPT – Multiverse School Edition
