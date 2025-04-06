@@ -28,5 +28,11 @@
         "color": "rainbow",
         "element": "all",
         "healing": "all"
+    },
+    "fluorite": {
+        "chakra": "third eye",
+        "color": "green",
+        "element": "air",
+        "effect": "focus and clarity"
     }
 }

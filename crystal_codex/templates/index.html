@@ -1,0 +1,48 @@
+<!-- crystal_codex/templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>🌈 Crystal Codex Web</title>
+  <style>
+    body {
+      font-family: Georgia;
+      background-color: #faf3f3;
+      color: #5a4e7c;
+      text-align: center;
+      padding: 30px;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 8px;
+    }
+    .card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      border-radius: 10px;
+      margin: 20px auto;
+      width: 300px;
+      background-color: #fff8fc;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔮 Crystal Codex</h1>
+  <form method="post">
+    <label>How are you feeling?</label><br><br>
+    <input name="mood" placeholder="e.g. peaceful, creative"><br><br>
+    <button type="submit">Find My Crystal</button>
+  </form>
+
+  {% if result %}
+  <div class="card">
+    <h2>{{ result.name.title() }}</h2>
+    <p>🧘 Chakra: {{ result.crystal["chakra"] }}</p>
+    <p>🎨 Color: {{ result.crystal["color"] }}</p>
+    <p>🌬️ Element: {{ result.crystal["element"] }}</p>
+    <p>✨ Effect: {{ result.crystal["effect"] }}</p>
+    <p>🌟 Affirmation: {{ result.affirmation }}</p>
+  </div>
+  {% endif %}
+</body>
+</html>

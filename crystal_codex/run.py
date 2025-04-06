@@ -1,6 +1,7 @@
-from crystal_codex.gems import load_codex, save_codex
+from crystal_codex.file_writer import load_codex, save_codex
 
-codex = load_codex()
+codex = load_codex()  # ✅ This now loads from codex.json
+
 
 mood = input("💫 How are you feeling today? ").lower()
 affirmation = input("🌈 What’s your affirmation for today? ")
@@ -18,8 +19,9 @@ print("   💎", mood.title())
 print("   🎨", crystal["color"])
 print("   🌀", crystal["chakra"])
 print("   🌿", crystal["healing"])
+
 # Optional: Save new entries
-add = input("Would you like to add a new crystal to the codex? (y/n) ").lower()
+add = input("Would you like to add a new crystal to the codex? (y/n) ")
 if add == "y":
     name = input("Name of the crystal: ").lower()
     chakra = input("Chakra: ")
@@ -31,8 +33,10 @@ if add == "y":
         "chakra": chakra,
         "color": color,
         "element": element,
-        "healing": healing
+        "effect": healing
     }
 
-    save_codex(codex)
+    save_codex(codex)  # 🧠 ← THIS saves it back to codex.json
+
+
     print(f"✅ Added {name.title()} to your codex!")
